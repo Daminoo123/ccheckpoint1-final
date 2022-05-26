@@ -1,0 +1,15 @@
+how does the web works ?
+The web browser connects to the web server and sends an HTTP request (via the protocol stack) for the desired web page. The web server receives the request and checks
+ for the desired page. If the page exists, the web server sends it. If the server cannot find the requested page, it will send an HTTP 404 error message.
+what do u need to be a web developer ?
+Learn the Basics of HTML, CSS, and Javascript.
+Go Through WordPress Tutorials.
+Learn the Basics of UI and UX.
+Learn SQL and PHP.
+Learn the Basics of SEO.
+Make Sure Your Site is Responsive.
+
+Why did you choose to learn web development?
+Web development gives you the opportunity to express yourself creatively on the internet. If you have an idea you would like to try as you discover your web dev skills,
+ try it out. Web dev is a fun, creative experience.
+
